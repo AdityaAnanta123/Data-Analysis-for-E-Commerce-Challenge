@@ -23,7 +23,7 @@ Proyek ini merupakan studi kasus analisis data e-commerce menggunakan **MySQL**.
 - Membuat skema database relasional untuk data e-commerce.
 - Mengimpor data dari file CSV ke dalam tabel MySQL.
 - Menjalankan query untuk menganalisis performa penjualan, termasuk total penjualan, produk terlaris, dan pelanggan terbaik.
-- Mengidentifikasi tren dan pola dalam data untuk mendukung pengambilan keputusan bisnis. ([SQL-Project-Data-Analysis-for-E-Commerce-Challenge ... - GitHub](https://github.com/dikoharyadhanto/SQL-Project-Data-Analysis-for-E-Commerce-Challenge/blob/main/users_table_query.sql?utm_source=chatgpt.com))
+- Mengidentifikasi tren dan pola dalam data untuk mendukung pengambilan keputusan bisnis.
 
 ## 📈 Hasil dan Insight
 
